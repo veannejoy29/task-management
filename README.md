@@ -2,6 +2,9 @@
 
 This is a simple task management system built using React for the frontend, Node.js for the backend, and MongoDB as the database. The system allows users to add, update, and delete tasks and supports task status management with drag-and-drop functionality.
 
+I've made good progress on the project, but because of time limits, some parts might not be as polished as I'd like it to be. I tried to meet the requirements, but I'm still getting familiar with some aspects. Also, I opted for MongoDB as database for the implementation as for the reason of I am not that familiar with MySQL database. Your feedback is welcome, and with more time, I'm sure I could make the project even better to meet all the requirements.
+
+
 ## Getting Started
 
 Follow these instructions to set up and run the task management system on your local machine.
